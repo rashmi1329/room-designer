@@ -1,3 +1,10 @@
-canvas {
-  border: 1px solid black;
+.home {
+  text-align: center;
+  margin-top: 100px;
+}
+
+button {
+  padding: 12px 20px;
+  font-size: 16px;
+  cursor: pointer;
 }
